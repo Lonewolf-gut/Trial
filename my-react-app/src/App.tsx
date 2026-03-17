@@ -1,10 +1,10 @@
-import CounterOne from "./components/CounterOne";
+import DataFetchingOne from "./components/DataFetchingOne";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <CounterOne />
+      <DataFetchingOne />
     </>
   );
 }
