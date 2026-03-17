@@ -1,10 +1,10 @@
-import DataFetchingTwo from "./components/DataFetchingTwo";
+import HookTimer from "./components/HookTimer";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <DataFetchingTwo />
+      <HookTimer />
     </>
   );
 }
